@@ -1,0 +1,8 @@
+pandas>=2.0
+scikit-learn>=1.3.0
+tqdm>=4.66.0
+
+# Collaborative Filtering dependencies
+scipy>=1.10.0
+implicit>=0.7.0
+numpy>=1.24.0

@@ -1,0 +1,32 @@
+# Local environment
+.venv/
+venv/
+env/
+.env
+
+# Datasets and generated results
+*.dta
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.pt
+*.pth
+*.ckpt
+*.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS and editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local publish snapshots
+*-pub/
